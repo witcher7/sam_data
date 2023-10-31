@@ -1,22 +1,5 @@
 # # print("WORLD IS gOING CRAZY")
-# #       # "HELLO WORLD"
-
-
-# # # DO THE TASK
-
-# # # PRINT YOUR 5 FAVOURITE FOOD and send me in the chat
-# # print("Mango")
-# # print("Pineapple")
-# # print("Apple")
-# # print("Grapes")
-
-
-# # 10s translate 
-# # we are writting python
-# # interpreter will translate line by line
-# # computer will understand --> process --> do it
-
-# # print is a command which we are giving to computer
+ giving to computer
 
 
 
