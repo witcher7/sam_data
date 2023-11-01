@@ -63,13 +63,6 @@
 # print(result)
 
 
-# Write a program to check whether a person is eligible for voting or not. (accept age from user)
-
-# age = int(input("Enter your age : "))
-# if age >= 18:
-#   print("You are eligible for voting")
-# else:
-#   print("You are not eligible for voting")
 
 # Write a program to calculate the electricity bill (accept number of unit from user) according to the following criteria :
 #              Unit                                                     Price  
