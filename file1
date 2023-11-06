@@ -1,0 +1,83 @@
+# FUNCTIONS SO THAT WE CAN STORE OUR CODE AND WHENEVER WE NEEDED THEM, WE CAN USE THEM HERE
+# FUNCTIONS ALLOW US TO REUSE CODE AND MAKE IT MORE EFFICIENT
+# FUNCTIONS ALLOW US TO CREATE REUSABLE CODE BLOCKS
+
+# FUNCTION 
+# def mario():
+#   print("Hello Mario")
+
+# mario()
+# I AM CALLING THE FUNCTION, if I dont call the function , the program will not work
+
+# we have made a program, but it will not work
+# untill and unless, it is called 
+
+# function()
+# to recieve the values
+# def addition(a,b):# parameters to recieve the value
+#   print(a+b)
+
+# a = 10
+# b = 20
+# addition(a,b) # sending the values
+# when I am calling them, sending the values
+# arguments of the function
+
+
+# I WANT TO SEND THESE VALUE TO MY FUNCTION
+# TO PERFORM ACTION ON a and b 
+# THE FUNCTION IS A VIRTUAL WORLD where
+# we can make our own things but it will not
+# reflect anything into the main 
+# FUNCTION WORLD
+# def new_world(a,b):
+#   a = 500
+#   b = 1000
+#   print(a)
+#   print(b)
+#   a = 100
+#   b = 150
+#   print(a)
+#   print(b)
+
+
+# # MAIN WORLD
+# a = 200
+# b = 300
+# new_world(a,b)
+# # we are just sending 
+
+# # I have a piece of paper 
+# # I am handsome 
+
+# # YOGESH HAS A PIECE OF PAPER
+# # I AM SUPER HANDSOME 
+
+# print(a)
+# print(b)
+
+
+# def new_value(a):
+#    a = 1000
+#    return a    
+
+
+# a = 500
+# a = new_value(a)
+# print(a)
+
+def addition(a,b):
+  a = 500
+  b = 1000
+  return a,b
+
+a = int(input("Enter value for a : "))
+b = int(input("Enter value for b : "))
+save = addition(a,b)
+print(save)
+
+# FUNCTIONS
+# OOPS 
+# TOMMOROW WE WILL COMPLETE PYTHON
+
+# DEVOPS TOOLS
